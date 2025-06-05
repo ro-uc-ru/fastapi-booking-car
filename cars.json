@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "booked_dates": []
+  },
+  {
+    "id": 2,
+    "brand": "Ford",
+    "model": "Focus",
+    "booked_dates": []
+  },
+  {
+    "id": 3,
+    "brand": "Nissan",
+    "model": "Cube",
+    "booked_dates": []
+  },
+  {
+    "id": 4,
+    "brand": "Tesla",
+    "model": "Model X",
+    "booked_dates": []
+  },
+  {
+    "id": 5,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "booked_dates": []
+  }
+]
