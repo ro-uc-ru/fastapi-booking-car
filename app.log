@@ -1,0 +1,10 @@
+2025-06-05 12:33:48,265 - INFO - Starting API... 
+2025-06-05 12:33:51,001 - INFO - request to root 
+2025-06-05 12:33:55,277 - INFO - request to root 
+2025-06-05 12:34:06,867 - INFO - Request to see availabe cars 
+2025-06-05 12:34:07,569 - INFO - Request to see availabe cars 
+2025-06-05 12:34:28,300 - INFO - Request to book a car 
+2025-06-05 12:34:28,302 - INFO - Car booked succesfully 
+2025-06-05 12:34:39,751 - INFO - Request to see availabe cars 
+2025-06-05 12:34:46,712 - INFO - Request to book a car 
+2025-06-05 12:34:46,713 - ERROR - Failed to book car, the car is already booked for this day 

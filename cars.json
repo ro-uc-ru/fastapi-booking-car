@@ -3,7 +3,9 @@
     "id": 1,
     "brand": "Toyota",
     "model": "Corolla",
-    "booked_dates": []
+    "booked_dates": [
+      "2025-06-05"
+    ]
   },
   {
     "id": 2,
